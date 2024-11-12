@@ -1,8 +1,8 @@
-NAME:PILLI VEDA SATYA SUMA  
-COMPANY:CODTECH IT SOLUTIONS    
-ID:CT12DS2482  
-DOMAIN:WEB DEVELOPMENT   
-DURATION:SEPTEMBER TO NOVEMBER    
+**NAME:** PILLI VEDA SATYA SUMA  
+**COMPANY:** CODTECH IT SOLUTIONS    
+**ID:** CT12DS2482  
+**DOMAIN:** WEB DEVELOPMENT   
+**DURATION:** SEPTEMBER TO NOVEMBER    
 
 ## OVERVIEW OF THE PROJECT:
 # PROJECT:To-Do List Web Application
@@ -21,9 +21,6 @@ DURATION:SEPTEMBER TO NOVEMBER
 * HTML: For structuring the application layout and setting up key sections (e.g., task list, task creation form).
 * CSS: For styling and providing visual themes, with customized colors for different task categories (e.g., personal and business).
 * JavaScript: For functionality, including task addition, category selection, marking tasks as completed, editing tasks, and storing user data using localStorage.
-
-  ## Output Link:
-https://pilliveda.github.io/CODETECH-Task-2/
 
 ## Output:
 ![image](https://github.com/user-attachments/assets/4b9d4708-ba37-48ae-ad38-b9408c4f5adb)
